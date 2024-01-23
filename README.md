@@ -1,6 +1,6 @@
- 
 
-# Getting Started
+
+# Real time chat application using spring boot ( web socket & stomp).
 
 
 * References
